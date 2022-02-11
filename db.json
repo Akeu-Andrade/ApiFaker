@@ -6,7 +6,7 @@
     "local_origem": "Agromaratá",
     "local_destino": "Jav",
     "status": 0,
-    "data_execucao": "2022-02-11T11:28:36.058924Z",
+    "data_execucao": "2022-02-11T11:36:25.842862Z",
     "descricao": "ddddd",
     "motorista": "AILTON CESAR BRITO DOS SANTOS",
     "deletado": 0
@@ -17,11 +17,10 @@
     "local_origem": "Jav",
     "local_destino": "Agromaratá",
     "status": 0,
-    "data_execucao": "2022-02-11T11:28:36.067729Z",
+    "data_execucao": "2022-02-11T11:36:25.852986Z",
     "descricao": "teste",
     "motorista": "AILTON CESAR BRITO DOS SANTOS",
     "deletado": 0
-  }]
-  
- 
+  }
+  ]
 }
