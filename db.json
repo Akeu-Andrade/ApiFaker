@@ -22,5 +22,11 @@
     "motorista": "AILTON CESAR BRITO DOS SANTOS",
     "deletado": 0
   }
+  ],
+  "post": [
+    {
+      "id":23,
+      "nome": "teste"
+    }
   ]
 }
