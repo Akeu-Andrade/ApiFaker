@@ -1,28 +1,5 @@
-{
-    "id": 1,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Agromaratá",
-    "local_destino": "Jav",
-    "status": 0,
-    "data_execucao": "2022-02-11T11:13:23.489164Z",
-    "descricao": "ddddd",
-    "motorista": "AILTON CESAR BRITO DOS SANTOS",
-    "deletado": 0
-  },
-  {
-    "id": 2,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Jav",
-    "local_destino": "Agromaratá",
-    "status": 0,
-    "data_execucao": "2022-02-11T11:13:23.497963Z",
-    "descricao": "teste",
-    "motorista": "AILTON CESAR BRITO DOS SANTOS",
-    "deletado": 0
-  }
 
-{
-  "viagens": [
+"viagens": [
     {
     "id": 1,
     "Veiculo": "AAA-AAAA",
@@ -45,9 +22,5 @@
     "motorista": "AILTON CESAR BRITO DOS SANTOS",
     "deletado": 0
   }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
 
