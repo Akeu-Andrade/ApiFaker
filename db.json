@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "Veiculo": "AAA-AAAA",
     "local_origem": "Agromaratá",
@@ -21,4 +20,4 @@
     "motorista": "AILTON CESAR BRITO DOS SANTOS",
     "deletado": 0
   }
-]
+
