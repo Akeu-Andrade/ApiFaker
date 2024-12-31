@@ -1,113 +1,15 @@
 {
   "login": [
     {
-      "name": "José Augusto vieira"
+      "name": "José Augusto Vieira",
+      "email": "jose.augusto@gmail.com",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImlhdCI6MTY3Mjc2NjAyOCwiZXhwIjoxNjc0NDk0MDI4fQ.kCak9sLJr74frSRVQp0_27BY4iBCgQSmoT3vQVWKzJg",
+      "refresh_token": "eyJhbGciOiJI",
+      "expires_in": 3600,
+      "user_id": 1,
+      "user_name": "José Augusto Vieira",
+      "user_email": "augustovieira@marata.com.br",
+      "permissions": ["admin"]
     }
-  ],
-  "viagem": [
-    {
-    "idBase": 1,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Agromaratá",
-    "local_destino": "Jav Industria",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.944180Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "ddddd",
-    "motorista": "AILTON CESAR BRITO DOS SANTOS",
-    "deletado": 1
-  },
-  {
-    "idBase": 2,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Jav Industria",
-    "local_destino": "Agromaratá",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.952992Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "teste",
-    "motorista": "AILTON CESAR BRITO DOS SANTOS",
-    "deletado": 1
-  },
-  {
-    "idBase": 3,
-    "Veiculo": "BBB-BBBB",
-    "local_origem": "Agromaratá",
-    "local_destino": "Jav Industria",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.960742Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "vdfvdf",
-    "motorista": "ADAO DE JESUS SILVA",
-    "deletado": 1
-  },
-  {
-    "idBase": 4,
-    "Veiculo": "BBB-BBBB",
-    "local_origem": "Jav Industria",
-    "local_destino": "Agromaratá",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.968853Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "ffffff",
-    "motorista": "ADRIANO DE JESUS OLIVEIRA",
-    "deletado": 0
-  },
-  {
-    "idBase": 5,
-    "Veiculo": "BBB-BBBB",
-    "local_origem": "Jav Industria",
-    "local_destino": "Agromaratá",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.976519Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "fgdfgdfg",
-    "motorista": "ADEILDO SALES DOS SANTOS",
-    "deletado": 0
-  },
-  {
-    "idBase": 6,
-    "Veiculo": "BBB-BBBB",
-    "local_origem": "RJ",
-    "local_destino": "Jav Industria",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.984916Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "fdfdsfds",
-    "motorista": "ADEILDO SALES DOS SANTOS",
-    "deletado": 0
-  },
-  {
-    "idBase": 7,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Jav Industria",
-    "local_destino": "Jav Industria",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:50.993562Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "sdfdsf",
-    "motorista": "ADAO DE JESUS SILVA",
-    "deletado": 1
-  },
-  {
-    "idBase": 8,
-    "Veiculo": "AAA-AAAA",
-    "local_origem": "Agromaratá",
-    "local_destino": "Jav Industria",
-    "status": 0,
-    "data_execucao": "2022-02-11T17:40:51.001625Z",
-    "data_inicio": null,
-    "data_fim": null,
-    "descricao": "dfsdf",
-    "motorista": "ADAO DE JESUS SILVA",
-    "deletado": 0
-  }
   ]
 }
