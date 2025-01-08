@@ -11,5 +11,47 @@
       "user_email": "augustovieira@marata.com.br",
       "actions": "admin"
     }
+  ],
+  "bases": [
+    {
+      "id": 1,
+      "name": "Base 1",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 2,
+      "name": "Base 2",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 3,
+      "name": "Base 3",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 4,
+      "name": "Base 4",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 5,
+      "name": "Base 5",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 6,
+      "name": "Base 6",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 7,
+      "name": "Base 7",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    },
+    {
+      "id": 8,
+      "name": "Base 8",
+      "photo": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    }
   ]
 }
